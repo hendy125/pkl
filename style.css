@@ -1,0 +1,15 @@
+body{
+    background-image: url(c:/Users/hendi/Downloads/icon-1676884654.webp);
+    background-size:450px;
+    background-color: rgb(0, 255, 55);
+}
+marquee{
+    margin-bottom:50px;
+}
+img{
+    height: 150px;
+    width: 150px;
+}
+a{
+    color: #000000;
+}
